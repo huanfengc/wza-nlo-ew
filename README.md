@@ -3,10 +3,10 @@
 
 ## Prerequisites
 
-* gfortran
-* LHAPDF library
-* RECOLA library
-* HELAS library
+* ```gfortran```
+* ```LHAPDF``` library
+* ```RECOLA``` library
+* ```HELAS``` library
 
 ## Installation
 
@@ -21,4 +21,6 @@ Run the executable,
 ```
 ./epvemumua.x
 ```
-type in a random seed (eg. '```0```') and press ```enter```
+then type in a random seed (eg. '```0```') and press ```enter```. 
+
+When the program is running, the progress of Monte Carlo integration will be printed on the screen. Once the computation is finished, the results will be saved in ```plots/``` where ```xs.dat``` contains the total cross section and the uncertainty of Monte Carlo integration, all the other ```*.dat``` files are differential cross sections.
