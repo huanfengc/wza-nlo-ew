@@ -10,9 +10,17 @@
 
 ## Installation
 
+```
+cd wza-nlo-ew
+make
+
+```
 
 ## Usage
 
+Run the executable,
 ```
-  cd wza-nlo-ew
+  ./epvemumua.x
+  
 ```
+type in a random seed (eg. '0') and press ```enter```
