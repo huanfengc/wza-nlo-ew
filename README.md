@@ -8,16 +8,17 @@
 * ```Recola-Collier``` : a Fortran library providing the QCD/electroweak virtual one-loop amplitude. ([Installation instructions](https://recola.gitlab.io/recola2/installation.html) We used verison 1 of the package when developing the framework, but version 2 should also work and probably should be recommended.)
 * ```HELAS``` : a Fortran library needed to calculate the dipole subtraction terms.
 
-## Installation
+
+## Usage
+
+Download the repository, go into the directory and compile,
 
 ```
 cd wza-nlo-ew
 make
 ```
 
-## Usage
-
-Run the executable,
+run the executable,
 ```
 ./epvemumua.x
 ```
