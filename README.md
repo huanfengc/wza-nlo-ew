@@ -45,3 +45,9 @@ The unit of cross section calculated by the program is ```femtobarn (fb)```.
 ## Cite
 
 When the program is used for a publication, please cite:
+
+
+
+## Contact
+
+Please send comments and bug reports to huanfeng@buffalo.edu and let us know if you have questions about utilizing the program.
