@@ -44,7 +44,9 @@ The unit of cross section calculated by the program is ```femtobarn (fb)```.
 
 ## Cite
 
-When the program is used for a publication, please cite:
+**When the program is used for a publication, please cite:**
+
+H. Cheng and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, [arXiv:2112.12052](https://arxiv.org/abs/2112.12052).
 
 S. Actis, A. Denner, L. Hofer, A. Scharf and S. Uccirati, *Recursive generation of one-loop amplitudes in the Standard Model*, JHEP, 04, 037 (2013), [arXiv:1211.6316](https://arxiv.org/abs/1211.6316).
 
@@ -62,10 +64,9 @@ T. Gehrmann and N. Greiner, *Photon Radiation with MadDipole*, JHEP 12, 050 (201
 
 R. Frederix, T. Gehrmann and N. Greiner, *Integrated dipoles with MadDipole in the MadGraph framework*, JHEP 06, 086 (2010), [arXiv:1004.2905](https://arxiv.org/abs/1004.2905).
 
-R. Frederix, T. Gehrmann and N. Greiner, *Automation of the Dipole Subtraction Method in MadGraph/MadEvent*, JHEP 09, 122, 2008, [arXiv:0808.2128](https://arxiv.org/abs/0808.2128).
+R. Frederix, T. Gehrmann and N. Greiner, *Automation of the Dipole Subtraction Method in MadGraph/MadEvent*, JHEP 09, 122 (2008), [arXiv:0808.2128](https://arxiv.org/abs/0808.2128).
 
-
-
+A. Buckley, J. Ferrando, S. Lloyd, K. Nordstrom, B. Page, M. Rufenacht, M. Schonherr and G. Watt, *LHAPDF6: parton density access in the LHC precision era*, Eur. Phys. J. C 75, 132 (2015), [arXiv:1412.7420](https://arxiv.org/abs/1412.7420).
 
 
 
