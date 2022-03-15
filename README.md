@@ -3,10 +3,10 @@
 
 ## Prerequisites
 
-* ```gfortran``` - the ```Fortran``` compiler 
-* ```LHAPDF``` - a library interfacing the parton distribution functions (PDFs).
-* ```RECOLA``` - a library providing 
-* ```HELAS``` - a library needed to calculate the dipole subtraction terms.
+* ```gfortran``` : the Fortran compiler.
+* ```LHAPDF``` : a C++ library interfacing the parton distribution functions (PDFs). [install](https://lhapdf.hepforge.org/)
+* ```RECOLA``` : a Fortran library providing the QCD/electroweak virtual one-loop amplitude. 
+* ```HELAS``` : a Fortran library needed to calculate the dipole subtraction terms.
 
 ## Installation
 
