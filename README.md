@@ -4,9 +4,15 @@
 
 ## About
 
+For more theoretical and technical details of the program, we refer the users to the publication:
+
+H. Cheng and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, [arXiv:2112.12052](https://arxiv.org/abs/2112.12052).
+
 
 
 ## Prerequisites
+
+To run the program successfully, the following compiler and libraries have to be pre-intalled.
 
 * ```gfortran``` : a GNU Fortran compiler.
 * ```LHAPDF6``` : a C++ library interfacing with the parton distribution functions (PDFs). ([Installation instructions](https://lhapdf.hepforge.org/))
