@@ -13,14 +13,12 @@
 ```
 cd wza-nlo-ew
 make
-
 ```
 
 ## Usage
 
 Run the executable,
 ```
-  ./epvemumua.x
-  
+./epvemumua.x
 ```
-type in a random seed (eg. '0') and press ```enter```
+type in a random seed (eg. '```0```') and press ```enter```
