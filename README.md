@@ -3,10 +3,10 @@
 
 ## Prerequisites
 
-* ```gfortran```
-* ```LHAPDF``` library
-* ```RECOLA``` library
-* ```HELAS``` library
+* ```gfortran``` - the ```Fortran``` compiler 
+* ```LHAPDF``` - a library interfacing the parton distribution functions (PDFs).
+* ```RECOLA``` - a library providing 
+* ```HELAS``` - a library needed to calculate the dipole subtraction terms.
 
 ## Installation
 
