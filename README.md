@@ -5,7 +5,7 @@
 
 * ```gfortran``` : a GNU Fortran compiler.
 * ```LHAPDF6``` : a C++ library interfacing with the parton distribution functions (PDFs). ([Installation instructions](https://lhapdf.hepforge.org/))
-* ```Recola-Collier``` : a Fortran library providing the QCD/electroweak virtual one-loop amplitude. ([Installation instructions](https://recola.gitlab.io/recola2/installation.html), ```CMake``` is required.)
+* ```Recola-Collier``` : a Fortran library providing the QCD/electroweak virtual one-loop amplitude. ([Installation instructions](https://recola.gitlab.io/recola2/installation.html), verison 1 of the package is used by default, but version 2 should also work.)
 * ```HELAS``` : a Fortran library needed to calculate the dipole subtraction terms.
 
 ## Installation
