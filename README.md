@@ -4,7 +4,7 @@
 
 ## About
 
-For the theoretical and technical details of the program, we refer the users to the publication:
+For the theoretical and technical details of the program, we refer the users to the publication and the references therein:
 
 **H. Cheng** and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, [arXiv:2112.12052](https://arxiv.org/abs/2112.12052).
 
