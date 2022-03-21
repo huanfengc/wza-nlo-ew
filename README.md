@@ -15,7 +15,7 @@ Here, we introduce the installation and usage of the program. For a high-level w
 
 ## Prerequisites
 
-To run the program successfully, the following compiler and libraries have to be pre-intalled.
+To run the program successfully, the following compiler and libraries have to be pre-intalled:
 
 * ```gfortran``` : a GNU Fortran compiler.
 * ```LHAPDF6``` : a C++ library interfacing with the parton distribution functions (PDFs). ([Installation instructions](https://lhapdf.hepforge.org/))
