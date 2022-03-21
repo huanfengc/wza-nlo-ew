@@ -19,7 +19,7 @@ To run the program successfully, the following compiler and libraries have to be
 
 * ```gfortran``` : a GNU Fortran compiler.
 * ```LHAPDF6``` : a C++ library interfacing with the parton distribution functions (PDFs). ([Installation instructions](https://lhapdf.hepforge.org/))
-* ```Recola-Collier``` : a Fortran library providing the QCD/electroweak virtual one-loop amplitude. ([Installation instructions](https://recola.gitlab.io/recola2/installation.html) We used verison 1 of the package when developing the framework, but version 2 should also work and probably should be recommended.)
+* ```Recola-Collier``` : a Fortran library providing the QCD/electroweak virtual one-loop amplitude. We used verison 1 of the package when developing the framework, but version 2 should also work and probably should be recommended. ([Installation instructions](https://recola.gitlab.io/recola2/installation.html) )
 * ```HELAS``` : a Fortran library needed to calculate the dipole subtraction terms.
 
 
