@@ -4,9 +4,12 @@
 
 ## About
 
-For the theoretical and technical details of the program, we refer the users to the publication and the references therein:
+This is a Monte Carlo framework that calculates next-to-leading order electroweak and QCD corrections to triboson production with fully leptonic decays at the Large Hadron Collider. It can be extended to calculate the same order corrections to arbitrary processes (up to the the same multiplicities of final states, ie. 2 to 5 at the leading order) in the Standard Model.
+
+Here, we introduce the installation and usage of the program. For an introduction of our work in a nutshell, please read this [article](https://huanfengc.github.io/projects/prediction-of-triboson-production-at-the-lhc/). For theoretical background and implementation details of the program, we refer the users to the publication and the references therein:
 
 **H. Cheng** and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, [arXiv:2112.12052](https://arxiv.org/abs/2112.12052).
+
 
 
 
