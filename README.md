@@ -1,8 +1,8 @@
 # Improved Predictions for Triboson Production at the Large Hadron Collider
 
-* [Introduction](##introduction)
-* [Usage](##usage)
-* [Cite](##cite)
+* [Introduction](#Introduction)
+* [Usage](#Usage)
+* [Cite](#Cite)
 <a name="headers"/>
 
 
