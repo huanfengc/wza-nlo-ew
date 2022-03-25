@@ -1,7 +1,7 @@
 # Improved Predictions for Triboson Production at the LHC
 
 
-This is a Monte Carlo (MC) program capable of calculating the next-to-leading order (NLO) QCD and electroweak (EW) corrections to triboson production with fully leptonic decays at the CERN Large Hadron Collider (LHC). By declaring the process and generating (automatically) a part of the code, this MC program can calculate the NLO QCD and EW corrections to arbitrary processes with up to 5-particle final state at leading order in the Standard Model.
+This is a Monte Carlo (MC) program capable of calculating the next-to-leading order (NLO) QCD and electroweak (EW) corrections to triboson production with fully leptonic decays at the CERN Large Hadron Collider (LHC), ie $p\;p\rightarrow e^{+}$
 
 In this documentation, we would focus on the **structure**, the **installation** and the **usage** of the program. For a high-level walk-through of the physics behind the program, please stop by this [article](https://huanfengc.github.io/projects/prediction-of-triboson-production-at-the-lhc/). For the theoretical and technical details of the program, we refer the users/readers to the publication below and the references therein:
 
