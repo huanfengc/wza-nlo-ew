@@ -2,7 +2,7 @@
 
 * [Introduction](#Introduction)
 * [Prerequisites](#Prerequisites)
-* [One more step before running](#Onemorestepbeforerunning)
+* [One more step before running](#One_more_step_before_running)
 * [Usage](#Usage)
 * [Cite](#Cite)
 * [Contact](#Contact)
