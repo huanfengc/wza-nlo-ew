@@ -3,6 +3,7 @@
 * [Introduction](#Introduction)
 * [Prerequisites](#Prerequisites)
 * [One more step before running](#One-more-step-before-running)
+* [Structure of directories](#Structure-of-directories)
 * [Usage](#Usage)
 * [Cite](#Cite)
 * [Contact](#Contact)
@@ -29,6 +30,9 @@ To run the program successfully, the following compiler and libraries have to be
 * ```LHAPDF6``` : a C++ library interfacing with the parton distribution functions (PDFs). ([Installation instructions](https://lhapdf.hepforge.org/))
 * ```Recola-Collier``` : a Fortran library providing the QCD/electroweak virtual one-loop amplitude. We used verison 1 of the package when developing the program, but version 2 should also work and probably should be recommended. ([Installation instructions](https://recola.gitlab.io/recola2/installation.html))
 * ```HELAS``` : a Fortran library needed to calculate the dipole subtraction terms.
+
+
+## Structure of directories
 
 
 
