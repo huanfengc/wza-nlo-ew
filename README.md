@@ -1,6 +1,15 @@
 # Improved Predictions for Triboson Production at the LHC
 
-* [Introduction](#Introduction)
+
+This is a Monte Carlo (MC) program capable of calculating the next-to-leading order (NLO) QCD and electroweak (EW) corrections to triboson production with fully leptonic decays at the CERN Large Hadron Collider (LHC). By declaring the process and generating (automatically) a part of the code, this MC program can calculate the NLO QCD and EW corrections to arbitrary processes with up to 5-particle final state at leading order in the Standard Model.
+
+In this documentation, we would focus on the **structure**, the **installation** and the **usage** of the program. For a high-level walk-through of the physics behind the program, please stop by this [article](https://huanfengc.github.io/projects/prediction-of-triboson-production-at-the-lhc/). For the theoretical and technical details of the program, we refer the users/readers to the publication below and the references therein:
+
+**H. Cheng** and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, [arXiv:2112.12052](https://arxiv.org/abs/2112.12052).
+
+
+The documentation consists of:
+
 * [Prerequisites](#Prerequisites)
 * [One more step before running](#One-more-step-before-running)
 * [Structure of directories](#Structure-of-directories)
@@ -8,17 +17,6 @@
 * [Cite](#Cite)
 * [Contact](#Contact)
 <a name="headers"/>
-
-
-
-## Introduction
-
-This is a Monte Carlo program that calculates next-to-leading order electroweak and QCD corrections to triboson production with fully leptonic decays at the Large Hadron Collider. It can be extended to calculate corrections of the same order to arbitrary processes (up to the same multiplicity of final state, ie. 2 to 5 at leading order) in the Standard Model.
-
-Here, we introduce the installation and usage of the program. For a high-level walk-through of our work, please read this [article](https://huanfengc.github.io/projects/prediction-of-triboson-production-at-the-lhc/). For theoretical background and implementation details of the program, we refer the users/readers to the publication and the references therein:
-
-**H. Cheng** and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, [arXiv:2112.12052](https://arxiv.org/abs/2112.12052).
-
 
 
 
