@@ -18,7 +18,7 @@ The documentation consists of following sections:
 * [Contact](#Contact)
 <a name="headers"/>
 
-We recommend the first-time users/readers to go through each part in the listed order to ensure running the program properly.
+We suggest that the first-time users read the sections in order.
 
 
 
