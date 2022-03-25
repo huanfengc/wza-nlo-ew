@@ -1,8 +1,10 @@
-# NLO EW and QCD corrections to p p -> e+ ve mu+ mu- A at the LHC
+# Improved Predictions for Triboson Production at the Large Hadron Collider
+
+* [Introduction](##Introduction)
 
 
 
-## About
+## Introduction
 
 This is a Monte Carlo program that calculates next-to-leading order electroweak and QCD corrections to triboson production with fully leptonic decays at the Large Hadron Collider. It can be extended to calculate corrections of the same order to arbitrary processes (up to the same multiplicity of final state, ie. 2 to 5 at leading order) in the Standard Model.
 
