@@ -18,7 +18,7 @@ The documentation consists of following sections:
 * [Contact](#Contact)
 <a name="headers"/>
 
-We suggest that the first-time users read the sections in order.
+We suggest that the first-time users read the first four sections in order.
 
 
 
