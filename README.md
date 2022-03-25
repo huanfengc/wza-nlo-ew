@@ -8,7 +8,7 @@ In this documentation, we would focus on the ***structure***, the ***installatio
 **H. Cheng** and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, revised and resubmitted to Physical Review D, arXiv: [2112.12052](https://arxiv.org/abs/2112.12052).
 
 
-The documentation consists of following sections:
+This documentation consists of following sections:
 
 * [Prerequisites](#Prerequisites)
 * [One more step before running](#One-more-step-before-running)
