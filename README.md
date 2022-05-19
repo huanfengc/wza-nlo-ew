@@ -35,15 +35,13 @@ To run the program successfully, the following compiler and libraries have to be
   * TBD
 
 
-## Structure of directories
-
-
 
 ## One more step before running
 
 ```tables.rcl.f90```
 
 
+## Structure of directories
 
 ## Usage
 
