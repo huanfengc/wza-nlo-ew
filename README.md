@@ -5,7 +5,7 @@ This is a Monte Carlo (MC) software capable of calculating the next-to-leading o
 
 In this documentation, we would focus on the ***structure***, the ***installation*** and the ***usage*** of the program. For a high-level walk-through of the physics behind the program, please stop by this [article](https://huanfengc.github.io/projects/prediction-of-triboson-production-at-the-lhc/). For the theoretical and technical details of the program, we refer the users/readers to the publication below and the references therein:
 
-**H. Cheng** and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, revised and resubmitted to Physical Review D, arXiv: [2112.12052](https://arxiv.org/abs/2112.12052).
+**H. Cheng** and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, \href{https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.096009}{\textcolor{blue}{Phys. Rev. D \textbf{105} 096009 (2022)}}, arXiv: [2112.12052](https://arxiv.org/abs/2112.12052).
 
 
 This documentation consists of following sections:
