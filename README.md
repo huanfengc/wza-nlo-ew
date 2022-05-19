@@ -10,7 +10,7 @@ In this documentation, we would focus on the ***installation***, ***structure***
 
 ## Table of Content
 
-* [Prerequisites](#Prerequisites)
+* [Prerequisites installation](#Prerequisites-installation)
 * [One more step before running](#One-more-step-before-running)
 * [Structure of directories](#Structure-of-directories)
 * [Usage](#Usage)
@@ -22,7 +22,7 @@ We suggest that the first-time users read the first four sections in order.
 
 
 
-## Prerequisites
+## Prerequisites installation
 
 To run the program successfully, the following compiler and libraries have to be pre-intalled:
 
