@@ -70,9 +70,9 @@ The unit of cross section calculated by the program is ```femtobarn (fb)```.
 
 **When the program is used for a publication, please cite:**
 
-> H. Cheng and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, [arXiv:2112.12052](https://arxiv.org/abs/2112.12052).
+> [1] H. Cheng and D. Wackeroth, *NLO electroweak and QCD corrections to the production of a photon with three charged lepton plus missing energy at the LHC*, [arXiv:2112.12052](https://arxiv.org/abs/2112.12052).
 >
-> S. Actis, A. Denner, L. Hofer, A. Scharf and S. Uccirati, *Recursive generation of one-loop amplitudes in the Standard Model*, JHEP, 04, 037 (2013), [arXiv:1211.6316](https://arxiv.org/abs/1211.6316).
+> [2] S. Actis, A. Denner, L. Hofer, A. Scharf and S. Uccirati, *Recursive generation of one-loop amplitudes in the Standard Model*, JHEP, 04, 037 (2013), [arXiv:1211.6316](https://arxiv.org/abs/1211.6316).
 >
 > S. Actis, A. Denner, L. Hofer, J.N. Lang, A. Scharf and S. Uccirati, *RECOLA: REcursive Computation of One-Loop Amplitudes*, Comput. Phys. Commun., 214:140–173 (2017), [arXiv:1605.01090](https://arxiv.org/abs/1605.01090).
 >
